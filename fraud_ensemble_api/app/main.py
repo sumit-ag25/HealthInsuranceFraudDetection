@@ -6,7 +6,7 @@ app = FastAPI(
     description="🌐 Predict health insurance fraud using 3 different models.\n\n"
                 "📦 Models: XGBoost, Random Forest, Deep Learning \n\n"
                 "🧠 Input the feature json and get prediction results. \n\n"
-                "👤 Team Members: \n\n"
+                "👤 Authors: \n\n"
                 "Sumit Kumar Agarwal (ID: 2023AIML512)\n",
     version="1.0",
     contact={
