@@ -7,10 +7,7 @@ app = FastAPI(
                 "📦 Models: XGBoost, Random Forest, Deep Learning \n\n"
                 "🧠 Input the feature json and get prediction results. \n\n"
                 "👤 Team Members: \n\n"
-                "Sumit Kumar Agarwal (ID: 2023AIML512)\n"
-                "Manu Saxena         (ID: 2023AIML506)\n"
-                "Prabhujyot Singh    (ID: 2023AIML584)\n"
-                "Vishal Gupta        (ID: 2023AIML518)",
+                "Sumit Kumar Agarwal (ID: 2023AIML512)\n",
     version="1.0",
     contact={
         "name": "BITS Pilani",
