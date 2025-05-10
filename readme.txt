@@ -27,7 +27,5 @@ Code:
 
 👤 Author(s)
 Sumit Kumar Agarwal
-Manu Saxena
-Prabhujyot Singh
-Vishal Gupta
+
 
