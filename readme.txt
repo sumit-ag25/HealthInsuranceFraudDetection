@@ -22,7 +22,11 @@ Code:
 - notebooks/EDA_ModelBuilding.py
 
 
-
+Summary:
+-----------
+Built a supervised ML model (Scikit-learn) to classify fraudulent health claims, using SMOTE for class imbalance andprecision-recall for evaluation.
+Developed a RESTful API using FastAPI and deployed the model with Joblib for real-time prediction.
+Achieved 99% accuracy across the 3 models
 
 
 👤 Author(s)
