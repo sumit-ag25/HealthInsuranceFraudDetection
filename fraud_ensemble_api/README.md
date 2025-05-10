@@ -127,6 +127,3 @@ Once the application is started successfully, it will launch API suite on http:/
 
 👤 Author(s)
 Sumit Kumar Agarwal
-Manu Saxena
-Prabhujyot Singh
-Vishal Gupta
