@@ -1,0 +1,29 @@
+# app/models/schemas.py
+from pydantic import BaseModel
+
+class InputData(BaseModel):
+    frequency: float
+    total_claim_amount: float
+    room_capping: float
+    treatment_claim: float
+    medicine_capping: float
+    lockin_days: float
+    treatment_capping: float
+    room_claim: float
+    claim_frequeny_history: float
+    Hospital_trust_score: float
+    cost: float
+    sum_assured: float
+    sum_assured_left: float
+    medicine_claim: float
+    diagnostic_capping: float
+    proximity_score: float
+    diagnostic_claim: float
+    patient_score: float
+    policy_claim_frequency: float
+    Income_range: float
+    Age: float
+    duration: float
+    claim_type_encoded: float
+    multiple_treatement_encoded: float
+    integer_of_Beds: float
